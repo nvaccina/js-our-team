@@ -16,4 +16,7 @@ Organizzare i singoli membri in card/schede
 ## Steps
 - Creare l'array team con dentro i membri e le informazioni fornite;
 - Stampare in console le informazioni di ogni membro;
+- Visualizzare le immagini e le info membro sul browser;
+- Divisi i membri in card;
+
 
