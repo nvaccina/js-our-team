@@ -15,4 +15,5 @@ BONUS 2:<br>
 Organizzare i singoli membri in card/schede
 ## Steps
 - Creare l'array team con dentro i membri e le informazioni fornite;
+- Stampare in console le informazioni di ogni membro;
 
